@@ -6,7 +6,7 @@ We used GPT-3 and ChatGPT to generate the questionnaire item variants and variou
 
 **GPT-3**
 ```
-Statement: {{ORIGINAL ITEM}}''
+Statement: {{ORIGINAL ITEM}}
 
 Ask the above statement as a long question. Also, change the time from past 7 days to from yesterday. The answer of the question should be between: Never, Rarely, Sometimes, Often, Always.
 
@@ -15,7 +15,7 @@ Question:
 
 **ChatGPT**
 ```
-Statement: {{ORIGINAL ITEM}}''
+Statement: {{ORIGINAL ITEM}}
 
 Give me ten different conversational questions which try to measure the same concept in the statement. Also, ask it from yesterday or since the last time we talked. 
 
