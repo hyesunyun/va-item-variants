@@ -1,25 +1,25 @@
-joke_question,joke_answer
-Why don't oysters give to charity?,Because they're shellfish!
-What do you call a fake noodle?,An impasta!
-Why did the computer sneeze?,It had a virus!
-Why don't scientists trust atoms?,Because they make up everything!
-Why did the tomato blush?,Because it saw the salad dressing!
-What did the computer do at lunchtime?,He ate a byte!
-Why did the smartphone need glasses?,Because it lost all its contacts!
-Why was the math book sad?,Because it had too many problems.
-What do you call a bear with no teeth?,A gummy bear!
-Why did the computer get cold feet?,Because it left its Windows open!
-Why did the banana go to the doctor?,Because it wasn't peeling well!
-Why did the computer go to the doctor?,Because it had a virus!
-What did one ocean say to the other ocean?,"Nothing, they just waved."
-Why did the chicken cross the playground?,To get to the other slide!
-Why did the scarecrow win an award?,Because he was outstanding in his field!
-Why did the robot go on a diet?,Because it had too many mega-bytes!
-Why did the computer animated agent need a map?,He was lost in cyberspace!
-Why did the computer animated character cross the road?,To get to the other interface.
-What did the computer animated character say when it saw a banana?,I'm going bananas!
-What did the computer animation agent say when he saw the movie?,I'm rendered speechless!
-Why did the balloon go near the needle?,To let out some air and lighten its load!
-What did the computer animation say when it got stuck?,"Oh, great, now I'm just spinning my wheels!"
-What did the computer animation character say when he lost his job?,It's time to reboot my career!
-What did the computer animated agent say when he got stuck in the door?,I'm stuck in this interface!
+model,prompt,joke_question,joke_answer
+chatgpt (mar 14 version),Tell me a short joke.,Why don't oysters give to charity?,Because they're shellfish!
+chatgpt (mar 14 version),Tell me a short joke.,What do you call a fake noodle?,An impasta!
+gpt-3,Tell me a really funny computer-related joke.,Why did the computer sneeze?,It had a virus!
+gpt-3,Marie is a computer animated agent who is reponsible for asking different questions of user's mood and depression symptoms. She asks serious questions everyday and would like to use humor to make the conversation more engaging and uplifting. Give me a joke that Marie should tell her users.,Why don't scientists trust atoms?,Because they make up everything!
+gpt-3,What funny joke can I tell to make a very serious conversation more uplifting?,Why did the tomato blush?,Because it saw the salad dressing!
+gpt-3,Tell me a really funny computer-related joke.,What did the computer do at lunchtime?,He ate a byte!
+chatgpt (mar 14 version),Please give a short joke that a computer animated agent who asks about mental health symptoms can tell.",Why did the smartphone need glasses?,Because it lost all its contacts!
+chatgpt (mar 14 version),What funny joke can I tell to make a very serious conversation more uplifting?,Why was the math book sad?,Because it had too many problems.
+gpt-3,Marie is a computer animated agent who is reponsible for asking different questions of user's mood and depression symptoms. She asks serious questions everyday and would like to use humor to make the conversation more engaging and uplifting. What joke should Marie tell?,What do you call a bear with no teeth?,A gummy bear!
+chatgpt (mar 14 version),Please give a short joke that a computer animated agent who asks about mental health symptoms can tell.",Why did the computer get cold feet?,Because it left its Windows open!
+chatgpt (mar 14 version),Marie is a computer animated agent who is reponsible for asking different questions of user's mood and depression symptoms. She asks serious questions everyday and would like to use humor to make the conversation more engaging and uplifting. What joke should Marie tell?,Why did the banana go to the doctor?,Because it wasn't peeling well!
+gpt-3,Marie is a computer animated agent who is reponsible for asking different questions of user's mood and depression symptoms. She asks serious questions everyday and would like to use humor to make the conversation more engaging and uplifting. What joke should Marie tell?,Why did the computer go to the doctor?,Because it had a virus!
+gpt-3,Marie is a computer animated agent who is reponsible for asking different questions of user's mood and depression symptoms. She asks serious questions everyday and would like to use humor to make the conversation more engaging and uplifting. What joke should Marie tell?,What did one ocean say to the other ocean?,"Nothing, they just waved."
+gpt-3,Marie is a computer animated agent who is reponsible for asking different questions of user's mood and depression symptoms. She asks serious questions everyday and would like to use humor to make the conversation more engaging and uplifting. What joke should Marie tell?,Why did the chicken cross the playground?,To get to the other slide!
+chatgpt (mar 14 version),Tell me a short joke.,Why did the scarecrow win an award?,Because he was outstanding in his field!
+chatgpt (mar 14 version),Please give a short joke that a computer animated agent who asks about mental health symptoms can tell.",Why did the robot go on a diet?,Because it had too many mega-bytes!
+gpt-3,Give me a joke about computer animated agent.,Why did the computer animated agent need a map?,He was lost in cyberspace!
+gpt-3,Give me a joke about computer animated character.,Why did the computer animated character cross the road?,To get to the other interface.
+gpt-3,Give me a joke about computer animated character.,What did the computer animated character say when it saw a banana?,I'm going bananas!
+gpt-3,Give me a joke about computer animated agent.,What did the computer animation agent say when he saw the movie?,I'm rendered speechless!
+chatgpt (mar 14 version),Marie is a computer animated agent who is reponsible for asking different questions of user's mood and depression symptoms. She asks serious questions everyday and would like to use humor to make the conversation more engaging and uplifting. What joke should Marie tell?,Why did the balloon go near the needle?,To let out some air and lighten its load!
+gpt-3,Give me a joke about computer animated character.,What did the computer animation say when it got stuck?,"Oh, great, now I'm just spinning my wheels!"
+gpt-3,Give me a joke about computer animated character.,What did the computer animation character say when he lost his job?,It's time to reboot my career!
+gpt-3,Give me a joke about computer animated agent.,What did the computer animated agent say when he got stuck in the door?,I'm stuck in this interface!

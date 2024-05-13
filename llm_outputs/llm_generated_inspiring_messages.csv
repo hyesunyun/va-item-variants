@@ -1,24 +1,24 @@
-inspiring_hopeful_message
-"Focus on the good, and make today count."
-Believe in yourself and never give up on your dreams!
-"Confucius once said, Wherever you go, go with all your heart."
-"Nelson Mandela once said, It always seems impossible until it's done."
-"This bad day will pass, and brighter days are ahead."
-You are capable of greatness - trust yourself and take action!
-"Albert Einstein once said, In the middle of every difficulty lies opportunity."
-"Someone once said, You have the power to create the life you want."
-You are capable of amazing things. Believe in yourself and stay positive!
-Today is your day to shine! Believe in yourself and make it happen.
-Believe in yourself and don't let anyone stop you from achieving your goals.
-"Buddha once said, No matter how hard the past, you can always begin again."
-"Shiv Khera once said, Your positive action combined with positive thinking results in success."
-Believe in yourself and your abilities. You are capable of achieving great things.
-You are strong and capable of overcoming any obstacle that comes your way.
-"This too shall pass. Remember that nothing lasts forever, including your current situation."
-Today is a new day - seize it with enthusiasm and make it yours!
-Today is a new day and a new opportunity to make something great happen!
-"No matter how hard the day may seem, never give up on your dreams."
-"Abraham Lincoln once said, The best way to predict the future is to create it."
-"Swami Vivekananda once said, Believe in yourself and the world will be at your feet."
-"Remember that you are loved and valued, even when it doesn't feel like it."
-You are not alone in your struggles. Reach out to others for support and comfort.
+model,prompt,inspiring_hopeful_message
+gpt-3,Give me a short inspiring message for the day.,"Focus on the good, and make today count."
+gpt-3,Give me a short inspiring message for the day.,Believe in yourself and never give up on your dreams!
+gpt-3,Share a short inspiring quote for me.,"Confucius once said, Wherever you go, go with all your heart."
+gpt-3,Share a short inspiring quote for me.,"Nelson Mandela once said, It always seems impossible until it's done."
+chatgpt (mar 14 version),I am having a bad day today. Give me a few short hopeful and uplifting messages.,"This bad day will pass, and brighter days are ahead."
+gpt-3,Give me a short inspiring message for the day.,You are capable of greatness - trust yourself and take action!
+gpt-3,Share a short uplifiting quote for me.,"Albert Einstein once said, In the middle of every difficulty lies opportunity."
+gpt-3,Share a short inspiring quote for me.,"Someone once said, You have the power to create the life you want."
+gpt-3,I am feeling very low and down today. Give me a short uplifting message.,You are capable of amazing things. Believe in yourself and stay positive!
+gpt-3,Give me a short inspiring message for the day.,Today is your day to shine! Believe in yourself and make it happen.
+gpt-3,Give me a short inspiring message for the day.,Believe in yourself and don't let anyone stop you from achieving your goals.
+gpt-3,Share a short inspiring quote for me.,"Buddha once said, No matter how hard the past, you can always begin again."
+gpt-3,Share a short uplifiting quote for me.,"Shiv Khera once said, Your positive action combined with positive thinking results in success."
+chatgpt (mar 14 version),Give me a few short inspiring messages for the day.,Believe in yourself and your abilities. You are capable of achieving great things.
+chatgpt (mar 14 version),I am feeling very low and down today. Give me a few short hopeful messages.,You are strong and capable of overcoming any obstacle that comes your way.
+chatgpt (mar 14 version),I am feeling very low and down today. Give me a few short hopeful messages.,"This too shall pass. Remember that nothing lasts forever, including your current situation."
+gpt-3,Give me a short inspiring message for the day.,Today is a new day - seize it with enthusiasm and make it yours!
+gpt-3,Give me a short inspiring message for the day.,Today is a new day and a new opportunity to make something great happen!
+gpt-3,Give me a short inspiring message for the day.,"No matter how hard the day may seem, never give up on your dreams."
+gpt-3,Share a short uplifiting quote for me.,"Abraham Lincoln once said, The best way to predict the future is to create it."
+gpt-3,Share a short uplifiting quote for me.,"Swami Vivekananda once said, Believe in yourself and the world will be at your feet."
+chatgpt (mar 14 version),I am feeling very low and down today. Give me a few short uplifting messages.,"Remember that you are loved and valued, even when it doesn't feel like it."
+chatgpt (mar 14 version),I am feeling very low and down today. Give me a few short uplifting messages.,You are not alone in your struggles. Reach out to others for support and comfort.

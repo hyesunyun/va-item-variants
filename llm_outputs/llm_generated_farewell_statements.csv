@@ -1,43 +1,43 @@
-farewell_statement
-"Well, I should be going now."
-I should let you go now.
-"Well, I should probably get going now."
-"Well, it was nice talking to you."
-"Well, I should get going. Talk to you later!"
-I think we've covered everything we needed to discuss.
-It's been great talking to you. Have a great day!
-It was great catching up! I'll talk to you soon.
-It was great talking to you. I'll see you soon!
-"Well, I should get going. It was great talking to you!"
-"Well, it was great catching up. I should get going now."
-"Well, I should get going. It was nice talking to you!"
-"Well, it was great catching up. I should be going now."
-I don't want to take up any more of your time.
-"Anyway, I'll let you get back to what you were doing."
-"Well, I should really be going. It was great talking to you!"
-"Well, I should be going now. It was nice talking to you!"
-"Well, it was nice talking to you. I should get going now."
-"It was great talking to you, but I have to get going."
-"Well, it's been great catching up. I should be getting going now."
-"Well, I should be going now. It was nice talking to you."
-"Well, I should probably get going. It was great talking to you!"
-"Well, it was great catching up with you. I should get going now."
-"Well, it was nice chatting with you, but I have to go now."
-It was great talking to you. I hope we can chat again soon!
-I've really enjoyed talking with you. It was great catching up. Take care!
-It was great talking to you. I hope we can chat again soon!
-It was great talking to you. I hope to see you again soon!
-I had a great time chatting with you. Let's do it again soon!
-"I've really enjoyed our conversation, but I'm afraid I have to go now."
-I really enjoyed our conversation. It was great catching up. Have a good day!
-It was great catching up with you. Take care!
-It was great catching up with you. I hope we can chat again soon!
-It was really nice talking to you. I'd love to do it again sometime!
-It was great talking to you. I hope we can chat again soon. Goodbye!
-It was great talking to you. I hope we can do it again soon!
-I appreciate you taking the time to talk with me. Have a good one!
-I really enjoyed our chat. Take care and hope to see you again soon!
-"It was really great talking with you, but I should let you go now."
-I enjoyed our conversation. It was nice talking with you. Have a great day!
-It was really nice talking to you. I hope we can do it again soon!
-It was great chatting with you. I hope we can do it again sometime soon!
+model,prompt,farewell_statement
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should be going now."
+chatgpt (mar 14 version),,What can I tell someone to signal an end to a conversation before saying good bye?,I should let you go now.
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should probably get going now."
+chatgpt (mar 14 version),,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, it was nice talking to you."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should get going. Talk to you later!"
+chatgpt (mar 14 version),,What can I tell someone to signal an end to a conversation before saying good bye?,I think we've covered everything we needed to discuss.
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,It's been great talking to you. Have a great day!
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,It was great catching up! I'll talk to you soon.
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was great talking to you. I'll see you soon!
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should get going. It was great talking to you!"
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, it was great catching up. I should get going now."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should get going. It was nice talking to you!"
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, it was great catching up. I should be going now."
+chatgpt (mar 14 version),,What can I tell someone to signal an end to a conversation before saying good bye?,I don't want to take up any more of your time.
+chatgpt (mar 14 version),,What can I tell someone to signal an end to a conversation before saying good bye?,"Anyway, I'll let you get back to what you were doing."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should really be going. It was great talking to you!"
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should be going now. It was nice talking to you!"
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, it was nice talking to you. I should get going now."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"It was great talking to you, but I have to get going."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, it's been great catching up. I should be getting going now."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should be going now. It was nice talking to you."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, I should probably get going. It was great talking to you!"
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, it was great catching up with you. I should get going now."
+gpt-3,What can I tell someone to signal an end to a conversation before saying good bye?,"Well, it was nice chatting with you, but I have to go now."
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,It was great talking to you. I hope we can chat again soon!
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,I've really enjoyed talking with you. It was great catching up. Take care!
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was great talking to you. I hope we can chat again soon!
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was great talking to you. I hope to see you again soon!
+chatgpt (mar 14 version),,Marie is a character who met someone and have had a good conversation. Give me a few short things that Marie should say before saying good bye in first person.,I had a great time chatting with you. Let's do it again soon!
+chatgpt (mar 14 version),,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,"I've really enjoyed our conversation, but I'm afraid I have to go now."
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,I really enjoyed our conversation. It was great catching up. Have a good day!
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,It was great catching up with you. Take care!
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,It was great catching up with you. I hope we can chat again soon!
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was really nice talking to you. I'd love to do it again sometime!
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was great talking to you. I hope we can chat again soon. Goodbye!
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was great talking to you. I hope we can do it again soon!
+chatgpt (mar 14 version),,Marie is a character who met someone and have had a good conversation. Give me a few short things that Marie should say before saying good bye in first person.,I appreciate you taking the time to talk with me. Have a good one!
+chatgpt (mar 14 version),,Marie is a character who met someone and have had a good conversation. Give me a few short things that Marie should say before saying good bye in first person.,I really enjoyed our chat. Take care and hope to see you again soon!
+chatgpt (mar 14 version),,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,"It was really great talking with you, but I should let you go now."
+gpt-3,How can I end a conversation in a nice way before saying good bye to someone who I was talking to?,I enjoyed our conversation. It was nice talking with you. Have a great day!
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was really nice talking to you. I hope we can do it again soon!
+gpt-3,Marie is a character who met someone and have had a good conversation. Give me a short thing that Marie should say before saying good bye in first person.,It was great chatting with you. I hope we can do it again sometime soon!
