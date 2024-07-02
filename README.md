@@ -23,3 +23,20 @@ The [`responses_table.pdf`](responses_table.pdf) provides the percentage of resp
 During the two-week validation study, participants answers questions about their satisfaction and perception of the agent.
 
 The [`longitudinal.pdf`](longitudinal.pdf) shows the changes in satisfaction and perception (`wanting to continue talking with the agent`, `naturalness`, and `repetitiveness`) of the agent throughout the 14-day study interaction period for each of the three study conditions. 
+
+## Citation
+
+```bibtex
+@inproceedings{yun2024keeping,
+author = {Yun, Hye Sun and Arjmand, Mehdi and Sherlock, Phillip and Paasche-Orlow, Michael and Griffith, James W. and Bickmore, Timothy},
+title = {Keeping Users Engaged During Repeated Interviews by a Virtual Agent: Using Large Language Models to Reliably Diversify Questions},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3652988.3673929},
+doi = {10.1145/3652988.3673929},
+booktitle = {Proceedings of the 24th ACM International Conference on Intelligent Virtual Agents},
+location = {, Glasgow, United Kingdon, },
+series = {IVA '24}
+}
+```
