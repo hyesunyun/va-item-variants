@@ -36,7 +36,7 @@ address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3652988.3673929},
 doi = {10.1145/3652988.3673929},
 booktitle = {Proceedings of the 24th ACM International Conference on Intelligent Virtual Agents},
-location = {, Glasgow, United Kingdon, },
+location = {, Glasgow, United Kingdom, },
 series = {IVA '24}
 }
 ```
