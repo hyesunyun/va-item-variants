@@ -1,8 +1,10 @@
 # Prompts for Large Language Models (LLMs)
 
-We used GPT-3 and ChatGPT to generate the questionnaire item variants and various conversation content for the agent. We attempted various prompting strategies before finalizing the prompts. In our study, we used the hyperparameters `temperature = 0.7` and `top_p = 1` for GPT-3 model as we saw the best results despite some duplicate outputs when we made up to 20 requests per prompt. The actual prompts we used for the study are provided below.
+We used GPT-3 and ChatGPT to generate the questionnaire item variants and various conversation content for the agent. These two LLMs were state-of-the-art and were the most accessible (in terms of cost and availability for academic researchers) at the time. We attempted various prompting strategies before finalizing the prompts. In our study, we used the hyperparameters `temperature = 0.7` and `top_p = 1` for GPT-3 model as we saw the best results despite some duplicate outputs when we made up to 20 requests per prompt. The actual prompts we used for the study are provided below.
 
 ## Prompts for Generating Item Variants
+
+We prompted the LLMs to format the PROMIS item statements (form-based questionnaire) into questions since we wanted to make the user experience with the agent more natural and conversational. Since this was a longitudinal study with participants interacting with the agent almost every day, we decided to change the time frame of the PROMIS questions to daily rather than weekly (7 days) so the interactions made more sense.
 
 **GPT-3**
 ```
