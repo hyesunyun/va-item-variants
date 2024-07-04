@@ -20,9 +20,11 @@ The [`responses_table.pdf`](responses_table.pdf) provides the percentage of resp
 
 ## Participant Perceptions
 
-During the two-week validation study, participants answers questions about their satisfaction and perception of the agent.
+During the two-week validation study, participants answered questions about their satisfaction and perception of the agent.
 
-The [`longitudinal.pdf`](longitudinal.pdf) shows the changes in satisfaction and perception (`wanting to continue talking with the agent`, `naturalness`, and `repetitiveness`) of the agent throughout the 14-day study interaction period for each of the three study conditions. 
+The [`longitudinal.pdf`](longitudinal.pdf) shows the changes in satisfaction and perception (`desire to continue talking with the agent`, `naturalness`, and `repetitiveness`) of the agent throughout the 14-day study interaction period for each of the three study conditions. 
+
+> Line graphs showing the mean agent satisfaction, desire to continue talking to the agent, naturalness of the agent, and repetitiveness of the agent from 1 to 7 on the Y axis against the number of visits or days in the study from 1 to 14 on the X axis. Three line graphs are shown for each study condition consisting of four lines each. The CONTROL condition overall had the highest repetitiveness numbers ranging from 4.5 to 6 across the two weeks. All other conditions and lines were fairly consistent ranging from 3 to 5.
 
 ## Citation
 
