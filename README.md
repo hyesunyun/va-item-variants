@@ -1,6 +1,9 @@
 # Keeping Users Engaged During Repeated Interviews by a Virtual Agent: Using Large Language Models to Reliably Diversify Questions
 
-This GitHub repository provides the supplementary materials.
+This GitHub repository provides the supplementary materials to our paper.
+
+Our paper is available at: **[paper.pdf](https://arxiv.org/abs/2311.12707)** :page_facing_up:
+
 As part of the supplementary materials, we include the LLM-generated item (question) variants and content we included in the ITEM VARIANTS PLUS condition. Also, we provide the implementation details and the prompts used to generate the item (question) variants and conversational contents. Lastly, we provide details of the response values, satisfaction ratings, and perception ratings participants provided when interacting with the agent over the course of 14 days.
 
 ## Prompts
